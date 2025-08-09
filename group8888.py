@@ -14,7 +14,13 @@ import os
 warnings.filterwarnings('ignore')
 
 # Page config
-st.set_page_config(page_title="Loan Default Prediction", layout="wide")
+st.set_page_config(
+    page_title="Loan Approval Prediction",  # Browser tab title
+    page_icon="✔️",  # Emoji favicon (you can also use a .png/.ico file path)
+    layout="wide",  # Makes use of full browser width
+    initial_sidebar_state="expanded"  # Sidebar open by default
+)
+
 
 # Load FontAwesome
 st.markdown("""
@@ -338,5 +344,6 @@ pages = {
 }
 selected = st.sidebar.selectbox("Click Below to Navigate", list(pages.keys()))
 pages[selected]()
+
 
 
