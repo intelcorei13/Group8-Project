@@ -12,11 +12,14 @@ This is a Streamlit-based web application that predicts whether a loan applicati
 - Light/Dark theme toggle
 
 ## 📂 Project Structure
-- `group8.py` - Main Streamlit app
+- `group8888.py` - Main Streamlit app
 - `loan_dataset.csv` - Dataset used for training & testing
 - `requirements.txt` - Python dependencies
 
 ## ⚙️ How to Run Locally
+- ## ⚙️ How to Run Locally
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+2. Run the app:
+   streamlit run group8888.py
