@@ -336,5 +336,7 @@ pages = {
     "Prediction": page5,
     "Interpretation & Conclusions": page6
 }
-selected = st.sidebar.selectbox("Navigate Here🔽", list(pages.keys()))
+selected = st.sidebar.selectbox("Click Below to Navigate", list(pages.keys()))
 pages[selected]()
+
+
