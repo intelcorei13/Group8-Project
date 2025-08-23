@@ -1,11 +1,7 @@
-# Loan Approval — Supervised Learning Project (University of Ghana)
+# Loan Approval — Supervised Learning Project 
 
-## Authors (Group 8)
-- **Roderick Faakye Mireku** 
-- **Christian Sekpe**
-- **Jonathan Nettey**
-- **Prince Nimako Boadu**  
-- **Kelvin Larbi Yeboah**    
+## Author
+- **Christian Sekpe** 
 
 
 ---
