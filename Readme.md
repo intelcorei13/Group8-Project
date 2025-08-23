@@ -56,8 +56,7 @@ Here’s a preview of the app interface (Dataset Page):
 ## How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/DS2004-ai/loan-approval-prediction-app.git
-   cd loan-approval-prediction-app
+   git clone https://github.com/intelcorei13/Loan-Approval-Prediction
    ```
 2. Install dependencies  
    ```bash
@@ -71,8 +70,8 @@ Here’s a preview of the app interface (Dataset Page):
 ---
 
 ## Live Demo
-- 🌍 **Streamlit App:** [loan-approval-prediction-app-rfm.streamlit.app](https://loan-approval-prediction-app-rfm.streamlit.app/)  
-- 💻 **GitHub Repo:** [github.com/DS2004-ai/loan-approval-prediction-app](https://github.com/DS2004-ai/loan-approval-prediction-app)  
+- 🌍 **Streamlit App:** [loan-approval-prediction-website.streamlit.app](https://loan-approval-prediction-website.streamlit.app)  
+- 💻 **GitHub Repo:** [github.com/intelcorei13/loan-approval-prediction](https://github.com/intelcorei13/Loan-Approval-Prediction)  
 
 ---
 
