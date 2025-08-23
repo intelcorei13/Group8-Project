@@ -77,4 +77,4 @@ Here’s a preview of the app interface (Dataset Page):
 ---
 
 ## Acknowledgment
-This project was developed as part of **Supervised Learning coursework** at the **University of Ghana**.  
+This project was developed as part of a **Supervised Machine Learning Project** at the **University of Ghana Business School, OMIS DEPT**.  
